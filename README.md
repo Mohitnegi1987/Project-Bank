@@ -1,8 +1,9 @@
+
 # Project-Bank
 
 Classification Machine learninng for a Bank Credit Card offer
 
-This project is a part of the IRON HACK at Berlin Data Camo. Other Bootcamp projects can be found at the main GitHub repo.
+This project is a part of the IRON HACK at Berlin Data Camp. Other Bootcamp projects can be found at the main GitHub repo.
 -- Project Status: [Completed]
 Project Intro/Objective
 
